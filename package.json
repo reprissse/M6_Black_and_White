@@ -1,0 +1,18 @@
+{
+  "name": "black-and-white",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node --watch index.js"
+  },
+  "keywords": [],
+  "author": "Raquel Jimenez",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2",
+    "jimp": "^0.22.12",
+    "uuid": "^9.0.1"
+  }
+}
